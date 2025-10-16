@@ -1,2 +1,2 @@
-pangocairo
+pangocairo.pc
 manim>=0.9.0
