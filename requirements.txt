@@ -1,1 +1,1 @@
-manimcommunity
+manimcommunity/manim
